@@ -16,7 +16,7 @@ export default function Home() {
 							letterSpacing: '2px',
 						}}
 					>
-						"ALWAYS AT ITS BEST!"
+						"ALWAYS AT ITS BEST!!!"
 					</h2>
 					<a href="mailto: Into.travel01@gmail.com" target="_blank">
 						Send us an Email
