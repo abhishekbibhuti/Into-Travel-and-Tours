@@ -1,6 +1,7 @@
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
+import Reserved from '../Reserved';
 
 export default function Contact() {
 	return (
@@ -14,6 +15,10 @@ export default function Contact() {
 			>
 				Contact Page
 			</h1>
+
+			<div className="container">
+				<Reserved />
+			</div>
 		</main>
 	);
 }

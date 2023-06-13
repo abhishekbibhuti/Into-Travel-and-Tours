@@ -7,7 +7,6 @@ import Images from '../components/Images';
 export default function Home() {
 	return (
 		<main>
-			{/* <Reserved /> */}
 			<section className="container-fluid hero">
 				<div className="hero-elements">
 					<h1>Into Travel and Tours</h1>
