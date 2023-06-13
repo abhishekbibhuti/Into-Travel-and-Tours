@@ -10,7 +10,7 @@ export default function Home() {
 			{/* <Reserved /> */}
 			<section className="container-fluid hero">
 				<div className="hero-elements">
-					<h1>Into Travel and Tours</h1>
+					<h1>Into Travel and Tours!</h1>
 					<h2
 						style={{
 							letterSpacing: '2px',
